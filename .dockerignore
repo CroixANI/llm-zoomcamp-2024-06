@@ -1,0 +1,10 @@
+# Versioning and metadata
+.git
+.gitignore
+.dockerignore
+
+# Environment (contains sensitive data)
+*.env
+
+# Misc
+README.md
