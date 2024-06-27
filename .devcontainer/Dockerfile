@@ -16,3 +16,5 @@ ENV WORKDIR /app/
 WORKDIR ${WORKDIR}
 
 COPY .. $WORKDIR
+
+RUN pipenv install --system --deploy --ignore-pipfile
