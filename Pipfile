@@ -16,6 +16,8 @@ torch = "*"
 ipywidgets = "*"
 widgetsnbextension = "*"
 pandas-profiling = "*"
+setuptools = "*"
+tiktoken = "*"
 
 [dev-packages]
 
