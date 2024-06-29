@@ -11,6 +11,11 @@ elasticsearch = "*"
 scikit-learn = "*"
 pandas = "*"
 requests = "*"
+transformers = "*"
+torch = "*"
+ipywidgets = "*"
+widgetsnbextension = "*"
+pandas-profiling = "*"
 
 [dev-packages]
 
