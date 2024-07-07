@@ -18,3 +18,4 @@ WORKDIR ${WORKDIR}
 COPY .. $WORKDIR
 
 RUN pipenv install --system --deploy --ignore-pipfile
+RUN curl -fsSL https://ollama.com/install.sh | sh
