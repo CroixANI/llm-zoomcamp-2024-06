@@ -18,6 +18,7 @@ widgetsnbextension = "*"
 pandas-profiling = "*"
 setuptools = "*"
 tiktoken = "*"
+streamlit = "*"
 
 [dev-packages]
 
