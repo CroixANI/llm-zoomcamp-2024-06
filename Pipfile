@@ -19,6 +19,7 @@ pandas-profiling = "*"
 setuptools = "*"
 tiktoken = "*"
 streamlit = "*"
+sentence-transformers = "*"
 
 [dev-packages]
 
