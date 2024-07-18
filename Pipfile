@@ -20,6 +20,8 @@ setuptools = "*"
 tiktoken = "*"
 streamlit = "*"
 sentence-transformers = "*"
+dlt = "*"
+ollama = "*"
 
 [dev-packages]
 
