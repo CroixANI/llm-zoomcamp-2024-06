@@ -22,6 +22,8 @@ streamlit = "*"
 sentence-transformers = "*"
 dlt = "*"
 ollama = "*"
+seaborn = "*"
+rouge = "*"
 
 [dev-packages]
 
