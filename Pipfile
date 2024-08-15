@@ -24,6 +24,7 @@ dlt = "*"
 ollama = "*"
 seaborn = "*"
 rouge = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
