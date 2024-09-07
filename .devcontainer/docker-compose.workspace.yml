@@ -27,7 +27,7 @@ services:
     environment:
       - discovery.type=single-node
       - xpack.security.enabled=false
-      - LICENSE=basic
+      - xpack.license.self_generated.type=trial
     volumes:
       - elasticsearch-llm-data:/usr/share/elasticsearch/data
 
