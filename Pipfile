@@ -25,6 +25,9 @@ ollama = "*"
 seaborn = "*"
 rouge = "*"
 python-dotenv = "*"
+langchain = "*"
+langchain-elasticsearch = "*"
+langchain-community = "*"
 
 [dev-packages]
 
